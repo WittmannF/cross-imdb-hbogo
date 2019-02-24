@@ -3,7 +3,8 @@ import requests as r
 import pandas as pd
 
 # Input 
-API_KEY = "84528a1f"
+API_KEY = "..." # Go to http://www.omdbapi.com/apikey.aspx and generate an API Key
+
 OMDB_REQUEST = "http://www.omdbapi.com/?apikey={}&t={}"
 
 with open('hbo_element.html', 'r') as myfile:
