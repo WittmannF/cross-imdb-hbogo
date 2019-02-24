@@ -1,6 +1,6 @@
 # HBO Go Movies ranked by IMDb Ratings
 
-Here's the result (updated at 2019-02-24): https://github.com/WittmannF/cross-imdb-hbogo/blob/master/results.csv
+Here's the full list (updated at 2019-02-24): https://github.com/WittmannF/cross-imdb-hbogo/blob/master/results.csv
 
 Top ten are:
 - Seven	8.7
