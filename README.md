@@ -1,4 +1,4 @@
-# Cross HBO Go Movies with IMDb Ratings
+# HBO Go Movies ranked by IMDb Ratings
 
 Here's the result (updated at 2019-02-24): https://github.com/WittmannF/cross-imdb-hbogo/blob/master/results.csv
 
