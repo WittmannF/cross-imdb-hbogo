@@ -15,6 +15,6 @@ Top ten are:
 - Blade Runner 2049	8.0
 
 In order to have a more updated list, just clone this repository and then:
-1. Go to http://www.omdbapi.com/apikey.aspx and generate an API Key
+1. Go to http://www.omdbapi.com/apikey.aspx and generate an API Key (necessary for requesting the IMDB rating of each movie)
 2. Add the API key to the code
 3. Replace the HBO html file with the source HTML of the current date
